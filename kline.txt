@@ -1,0 +1,25 @@
+Return Message : OK
+Category : linear
+Symbol : BTCUSD
+Time : 2023-05-24 02:05:32.385000
+List1 Start time of the candle : 2022-12-09 20:00:00
+List1 Open price : 17159
+List1 Highest price : 17159.5
+List1 Lowest price : 17122
+List1 Close price : 17144
+List1 Trade Volume : 7706758
+List1 Turnover : 449.70959312
+List2 Start time of the candle : 2022-12-09 19:00:00
+List2 Open price : 17152
+List2 Highest price : 17164.5
+List2 Lowest price : 17145
+List2 Close price : 17159
+List2 Trade Volume : 3791944
+List2 Turnover : 221.05091026
+List3 Start time of the candle : 2022-12-09 18:00:00
+List3 Open price : 17174
+List3 Highest price : 17179.5
+List3 Lowest price : 17144.5
+List3 Close price : 17152
+List3 Trade Volume : 7246015
+List3 Turnover : 422.15324278
