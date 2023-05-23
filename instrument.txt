@@ -7,4 +7,4 @@ Quote Coin : USDT
 Launch Time : 2020-03-15 02:00:00
 Min Price : 0.10
 Max Price : 199999.80
-Time : 2023-05-24 02:05:32.110000
+Time : 2023-05-24 02:14:11.583000

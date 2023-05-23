@@ -1,5 +1,6 @@
-from kline import ByBitKline
 from instrument import ByBitInstrument
+from kline import ByBitKline
+
 
 bybit_instrument = ByBitInstrument()
 bybit_kline = ByBitKline()

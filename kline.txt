@@ -1,7 +1,7 @@
 Return Message : OK
 Category : linear
 Symbol : BTCUSD
-Time : 2023-05-24 02:05:32.385000
+Time : 2023-05-24 02:14:11.837000
 List1 Start time of the candle : 2022-12-09 20:00:00
 List1 Open price : 17159
 List1 Highest price : 17159.5

@@ -51,4 +51,3 @@ class ByBitInstrument:
                 print(line.strip())
         return None
 
-
